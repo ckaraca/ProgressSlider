@@ -1,0 +1,19 @@
+
+	Purpose:	Combines Slider control & Progress bar controls
+
+	Created:	03/11/2003
+	Updated:	07/01/2004
+
+	Author:		Cem KARACA			mfcem@ikikule.com
+									http://www.ikikule.com
+
+
+  THIS CODE AND THE APPLICATON IS PROVIDED "AS IS" WITHOUT WARRANTY OF
+  ANY KIND, EITHER EXPRESSED OR IMPLIED.USE THIS CODE AND THE SOFTWARE
+	AT YOUR OWN RISK.
+ 
+  © Copyright 2004 Cem KARACA.
+
+	Terms of use
+	
+	This software is freeware!
